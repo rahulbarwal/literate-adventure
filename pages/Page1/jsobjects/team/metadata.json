@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "team",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[{\n  \"label\": \"UI Builder's POD\",\n  \"value\": \"ui-builder-pod\",\n  \"name\": \"UI Builders\"\n}, {\n  \"label\": \"App Viewer's POD\",\n  \"value\": \"app-viewer-pod\",\n  \"name\": \"App Viewers\"\n}, {\n  label: \"Modules POD\",\n  value: \"pod-community-modules\",\n  name: \"Modules\"\n}, {\n  \"label\": \"FE coder's POD\",\n  \"value\": \"fe-coder-pod\",\n  \"name\": \"FE Coders\"\n}, {\n  \"label\": \"BE coder's POD\",\n  \"value\": \"be-coder-pod\",\n  \"name\": \"BE Coders\"\n}, {\n  \"label\": \"Team Manager's POD\",\n  \"value\": \"team-manager-pod\",\n  \"name\": \"Team Managers\"\n}, {\n  \"label\": \"New Developers's POD\",\n  \"value\": \"new-developer-pod\",\n  \"name\": \"New Developers\"\n}, {\n  \"label\": \"Templates Pod\",\n  \"value\": \"pod-template\",\n  \"name\": \"Templates pod\"\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_team",
+  "deleted": false,
+  "gitSyncId": "65604f8060652c2d6ba82b25_65604faade3c4f43fddf9b9a"
+}
